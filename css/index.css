@@ -15,6 +15,11 @@ h1{
 }
 #luiz{
     float: right;
+    position:absolute;
+}
+#felipe{
+    float: left;
+    position: absolute;
 }
 footer{
     clear:both;
@@ -22,4 +27,7 @@ footer{
     bottom:0;
     width:99%;
     text-align:center;  
+}
+a{
+    text-decoration: none;
 }
