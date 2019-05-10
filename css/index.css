@@ -1,0 +1,13 @@
+body{
+   background-image: -moz-linear-gradient(left, #c1ddfa, #ffcfcb, #ff9f97,#98b6ec);
+}
+h1{
+    font-family: 'Fredericka the Great', cursive;
+    font-weight: normal;
+    font-size: 50px;
+    color:/* #ff8376,*/ #4e529d;
+}
+#logo{
+    width: 200px;
+    height: 200px;
+}
