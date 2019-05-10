@@ -1,5 +1,7 @@
 body{
    background-image: -moz-linear-gradient(left, #c1ddfa, #ffcfcb, #ff9f97,#98b6ec);
+   background-image: -webkit-linear-gradient(left, #c1ddfa, #ffcfcb, #ff9f97,#98b6ec);
+   background-image: -o-linear-gradient(left, #c1ddfa, #ffcfcb, #ff9f97,#98b6ec);
 }
 h1{
     font-family: 'Fredericka the Great', cursive;
@@ -10,4 +12,14 @@ h1{
 #logo{
     width: 200px;
     height: 200px;
+}
+#luiz{
+    float: right;
+}
+footer{
+    clear:both;
+    position:absolute;
+    bottom:0;
+    width:99%;
+    text-align:center;  
 }
