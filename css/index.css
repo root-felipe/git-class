@@ -23,3 +23,7 @@ footer{
     width:99%;
     text-align:center;  
 }
+
+a{
+	text-decoration: none;
+}
